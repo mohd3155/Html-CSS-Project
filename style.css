@@ -312,6 +312,11 @@ button {
   align-items: center;
 }
 
+.course-photo img {
+  height: 100%;
+  width: 50%;
+}
+
 .courses .course .course-details {
   height: 40%;
   display: flex;
